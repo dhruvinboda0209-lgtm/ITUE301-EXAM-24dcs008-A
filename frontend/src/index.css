@@ -1,0 +1,8 @@
+/* ==========================================================================
+   LIBRARIA — Smart Library Management System Main Stylesheet
+   Imports modular CSS architectures
+   ========================================================================== */
+
+@import './styles/global.css';
+@import './styles/components.css';
+@import './styles/pages.css';
